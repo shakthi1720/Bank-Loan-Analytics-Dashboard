@@ -40,9 +40,9 @@ docs/
 ---
 ## Screenshots
 ### Summary Dashboard
-![Summary Dashboard](screenshots/summary-dashboard.png)
+![Summary Dashboard](Summary.png)
 ### Overview Dashboard
-![Overview Dashboard](screenshots/overview-dashboard.png)
+![Overview Dashboard](Overview.png)
 ---
 ## Business Insights
 - Majority of loans are categorized as good loans.
